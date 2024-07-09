@@ -1,0 +1,20 @@
+.header {
+    background: #000;
+}
+
+.header__inner {
+    margin: 0 auto;
+    padding: 20px 15px;
+    max-width: 1230px;
+    background-color: red;
+}
+
+.header__logo {
+    color: #fff;
+    /*文字のアンダーラインが消える*/
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 24px;
+    background-color: blue;
+}
+
