@@ -18,7 +18,7 @@
     </header>
     <main>
         <div class="search-form__content">
-            <h2 class="search-form__heading">日本と世界の時間を比較</h2>
+            <h2 class="search-form__heading">日本と世界の時間を比較1</h2>
         </div>
         <!--*formタグの「action」は送信先-->
         <form class="search-form" action="result.php" method="get">
